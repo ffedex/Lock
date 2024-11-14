@@ -1,4 +1,4 @@
--- CODED BY THATTONEFEDE
+-- CODED BY ffedex
 
 getgenv().Aimbot = {
     Status = true,
